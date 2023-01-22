@@ -1,5 +1,10 @@
 print("hello world")
-#we can add many files 
+
+x= (1,32,4,55,66,7)
+
+x
+
+
 
 
 

@@ -7,7 +7,7 @@ x
 a=[11,22,5.4,True,33]
 a
 
-
+added a line to show a list
 
 
 
